@@ -1,6 +1,6 @@
 # Procurement - Project Documentation - V.0.2
 
-# Welcome to the Procurement Project's-0.2. Below is a list of key docuements realated to the project:
+Below is a list of key docuements realated to the project:
 
 | # |Document Type | Description | Link |
 |---|--------------|-------------|------|
