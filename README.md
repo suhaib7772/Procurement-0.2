@@ -13,7 +13,7 @@ Below is a list of key docuements realated to the project:
 |---|--------------|-------------|------|
 | 1 | Use Cases | Detailed Use Cases for the Procurement system |
 |   | Modules |
-|   |         | ADMIN | [USECASE LINK]()|
+|   |         | ADMIN | [USECASE LINK](https://github.com/suhaib7772/Procurement-0.2/tree/main/ADMIN%20USECASES)|
 |   |         | REQUESTOR | [USECASE LINK]()|
 |   |         | SUPPLIER  | [USECASE LINK]()|
 | 2 | Release Note | Information about project releases and versioning |
