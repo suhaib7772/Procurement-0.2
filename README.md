@@ -23,3 +23,7 @@ Below is a list of key docuements realated to the project:
 | 6 | Pseudocode | Pseudocode for algorithmic representations |
 | 7 | API Docs | Procurement API Docs |
 | 8 | Postman-Collection | Procurement Postman-Collection |
+| 9 | Figma Links |
+|   | ADMIN |
+|   | REQUESTOR |
+|   | SUPPLIER |
