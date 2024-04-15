@@ -26,4 +26,4 @@ Below is a list of key docuements realated to the project:
 | 9 | Figma Links |
 |   |              |ADMIN |[LINK](https://www.figma.com/file/ucBOnaSwO4L5KqNHrBOtWC/Procurement?type=design&node-id=391%3A2486&mode=design&t=uZKt80aCZEn7ZTBj-1)| 
 |   |              |REQUESTOR |[LINK](https://www.figma.com/file/ucBOnaSwO4L5KqNHrBOtWC/Procurement?type=design&node-id=1%3A1113&mode=design&t=uZKt80aCZEn7ZTBj-1)
-|   |              |SUPPLIER |
+|   |              |SUPPLIER |[LINK](https://www.figma.com/file/WQ1vwMpamPukjpG0ou4DZQ/Procurement-Release-0.2?type=design&node-id=179445%3A987&mode=design&t=SQEmqA50Vrc4phQW-1)
