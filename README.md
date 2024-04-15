@@ -24,6 +24,6 @@ Below is a list of key docuements realated to the project:
 | 7 | API Docs | Procurement API Docs |
 | 8 | Postman-Collection | Procurement Postman-Collection |
 | 9 | Figma Links |
-|   | ADMIN |
-|   | REQUESTOR |
-|   | SUPPLIER |
+|   |              |ADMIN |[LINK](https://www.figma.com/file/ucBOnaSwO4L5KqNHrBOtWC/Procurement?type=design&node-id=391%3A2486&mode=design&t=uZKt80aCZEn7ZTBj-1)| 
+|   |              |REQUESTOR |[LINK](https://www.figma.com/file/ucBOnaSwO4L5KqNHrBOtWC/Procurement?type=design&node-id=1%3A1113&mode=design&t=uZKt80aCZEn7ZTBj-1)
+|   |              |SUPPLIER |
